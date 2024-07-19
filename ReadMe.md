@@ -15,7 +15,10 @@ Software Engineer @ Wipro Technologies
 **Skills**
 
 C/C++ Programming
+
 Embedded C++ Programming
+
 Modern C++ Programming
-Design patterns
+
 Object Oriented Analysis and Design
+
